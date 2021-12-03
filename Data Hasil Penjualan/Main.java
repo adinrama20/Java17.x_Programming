@@ -77,3 +77,10 @@ public class Main {
         System.out.println("Total       = " + total + " barang");
     }
 }
+
+
+// Sample Input :               // Sample Output :
+// 3                            // 9 Jaket        11 November 2020
+// 11/11/2020 9j                // 12 Sneakers    11 Oktober 2020
+// 11/10/2020 12s               // 4 Topi         12 Agustus 2020
+// 12/08/2020 4T                // Total          = 25 barang
