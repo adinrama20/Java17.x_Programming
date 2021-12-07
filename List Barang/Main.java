@@ -74,6 +74,8 @@ public class Main {
                 for (int i = 0; i < barang.size(); i++) {
                     if (barang.get(i).toString().equalsIgnoreCase(hapus)) {
                         System.out.println("barang " + hapus + " telah dihapus dari list barang");
+                    } else {
+                        System.out.println("barang " + hapus + " tidak ada di dalam list barang");
                     }
                 }
 
