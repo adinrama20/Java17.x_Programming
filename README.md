@@ -1,1 +1,1 @@
-# java-project-by-adin-rama
+# Java17.x_OOP_Praktikum
